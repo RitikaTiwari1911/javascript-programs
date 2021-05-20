@@ -48,4 +48,5 @@ switch(num){
 
     default:
         console.log("Enter the correct number!!");
+        break;
 }
